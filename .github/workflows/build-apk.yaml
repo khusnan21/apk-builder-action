@@ -6,7 +6,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/iBotPeaches/Apktool"
+        default: "https://github.com/cuynu/ytvanced"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
